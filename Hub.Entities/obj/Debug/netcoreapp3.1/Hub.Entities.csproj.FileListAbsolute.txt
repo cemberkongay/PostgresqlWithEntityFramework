@@ -1,0 +1,27 @@
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Entities/bin/Debug/netcoreapp3.1/Hub.Entities.deps.json
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Entities/bin/Debug/netcoreapp3.1/Hub.Entities.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Entities/bin/Debug/netcoreapp3.1/Hub.Entities.pdb
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.csprojAssemblyReference.cache
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.AssemblyInfoInputs.cache
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.AssemblyInfo.cs
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.csproj.CoreCompileInputs.cache
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.pdb
+/Users/cemberkongay/Projects/Hub/VustoHub.Entities/bin/Debug/netcoreapp3.1/Hub.Entities.deps.json
+/Users/cemberkongay/Projects/Hub/VustoHub.Entities/bin/Debug/netcoreapp3.1/Hub.Entities.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.Entities/bin/Debug/netcoreapp3.1/Hub.Entities.pdb
+/Users/cemberkongay/Projects/Hub/VustoHub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.csprojAssemblyReference.cache
+/Users/cemberkongay/Projects/Hub/VustoHub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.AssemblyInfoInputs.cache
+/Users/cemberkongay/Projects/Hub/VustoHub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.AssemblyInfo.cs
+/Users/cemberkongay/Projects/Hub/VustoHub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.csproj.CoreCompileInputs.cache
+/Users/cemberkongay/Projects/Hub/VustoHub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.pdb
+/Users/cemberkongay/Projects/Hub/Hub.Entities/bin/Debug/netcoreapp3.1/Hub.Entities.deps.json
+/Users/cemberkongay/Projects/Hub/Hub.Entities/bin/Debug/netcoreapp3.1/Hub.Entities.dll
+/Users/cemberkongay/Projects/Hub/Hub.Entities/bin/Debug/netcoreapp3.1/Hub.Entities.pdb
+/Users/cemberkongay/Projects/Hub/Hub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.csprojAssemblyReference.cache
+/Users/cemberkongay/Projects/Hub/Hub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.AssemblyInfoInputs.cache
+/Users/cemberkongay/Projects/Hub/Hub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.AssemblyInfo.cs
+/Users/cemberkongay/Projects/Hub/Hub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.csproj.CoreCompileInputs.cache
+/Users/cemberkongay/Projects/Hub/Hub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.dll
+/Users/cemberkongay/Projects/Hub/Hub.Entities/obj/Debug/netcoreapp3.1/Hub.Entities.pdb

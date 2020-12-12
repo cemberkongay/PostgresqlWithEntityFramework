@@ -1,0 +1,193 @@
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/VustoHub.API.xml
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.API.deps.json
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.API.runtimeconfig.json
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.API.runtimeconfig.dev.json
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.API.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.API.pdb
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.PlatformAbstractions.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Namotion.Reflection.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/NJsonSchema.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Npgsql.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/NSwag.Annotations.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/NSwag.AspNetCore.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/NSwag.Core.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/NSwag.Generation.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/NSwag.Generation.AspNetCore.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.Business.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.DataAccess.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.Entities.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.Business.pdb
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.Entities.pdb
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.DataAccess.pdb
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.csprojAssemblyReference.cache
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.AssemblyInfoInputs.cache
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.AssemblyInfo.cs
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.csproj.CoreCompileInputs.cache
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/obj/Debug/netcoreapp3.1/staticwebassets/Hub.API.StaticWebAssets.Manifest.cache
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/obj/Debug/netcoreapp3.1/staticwebassets/Hub.API.StaticWebAssets.xml
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/obj/Debug/netcoreapp3.1/scopedcss/bundle/Hub.API.styles.css
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.RazorTargetAssemblyInfo.cache
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.csproj.CopyComplete
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.pdb
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.genruntimeconfig.cache
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/VustoHub.API.xml
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.API.deps.json
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.API.runtimeconfig.json
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.API.runtimeconfig.dev.json
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.API.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.API.pdb
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.PlatformAbstractions.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Namotion.Reflection.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/NJsonSchema.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Npgsql.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/NSwag.Annotations.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/NSwag.AspNetCore.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/NSwag.Core.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/NSwag.Generation.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/NSwag.Generation.AspNetCore.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.Business.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.DataAccess.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.Entities.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.Business.pdb
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.Entities.pdb
+/Users/cemberkongay/Projects/Hub/VustoHub.API/bin/Debug/netcoreapp3.1/Hub.DataAccess.pdb
+/Users/cemberkongay/Projects/Hub/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.csprojAssemblyReference.cache
+/Users/cemberkongay/Projects/Hub/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.AssemblyInfoInputs.cache
+/Users/cemberkongay/Projects/Hub/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.AssemblyInfo.cs
+/Users/cemberkongay/Projects/Hub/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.csproj.CoreCompileInputs.cache
+/Users/cemberkongay/Projects/Hub/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/cemberkongay/Projects/Hub/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/cemberkongay/Projects/Hub/VustoHub.API/obj/Debug/netcoreapp3.1/staticwebassets/Hub.API.StaticWebAssets.Manifest.cache
+/Users/cemberkongay/Projects/Hub/VustoHub.API/obj/Debug/netcoreapp3.1/staticwebassets/Hub.API.StaticWebAssets.xml
+/Users/cemberkongay/Projects/Hub/VustoHub.API/obj/Debug/netcoreapp3.1/scopedcss/bundle/Hub.API.styles.css
+/Users/cemberkongay/Projects/Hub/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.RazorTargetAssemblyInfo.cache
+/Users/cemberkongay/Projects/Hub/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.csproj.CopyComplete
+/Users/cemberkongay/Projects/Hub/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.pdb
+/Users/cemberkongay/Projects/Hub/VustoHub.API/obj/Debug/netcoreapp3.1/Hub.API.genruntimeconfig.cache
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/mono_crash.11a6748113.0.json
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/VustoHub.API.xml
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Hub.API.deps.json
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Hub.API.runtimeconfig.json
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Hub.API.runtimeconfig.dev.json
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Hub.API.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Hub.API.pdb
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.PlatformAbstractions.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Namotion.Reflection.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/NJsonSchema.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Npgsql.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/NSwag.Annotations.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/NSwag.AspNetCore.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/NSwag.Core.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/NSwag.Generation.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/NSwag.Generation.AspNetCore.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Hub.Business.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Hub.DataAccess.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Hub.Entities.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Hub.Business.pdb
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Hub.Entities.pdb
+/Users/cemberkongay/Projects/Hub/Hub.API/bin/Debug/netcoreapp3.1/Hub.DataAccess.pdb
+/Users/cemberkongay/Projects/Hub/Hub.API/obj/Debug/netcoreapp3.1/Hub.API.csprojAssemblyReference.cache
+/Users/cemberkongay/Projects/Hub/Hub.API/obj/Debug/netcoreapp3.1/Hub.API.AssemblyInfoInputs.cache
+/Users/cemberkongay/Projects/Hub/Hub.API/obj/Debug/netcoreapp3.1/Hub.API.AssemblyInfo.cs
+/Users/cemberkongay/Projects/Hub/Hub.API/obj/Debug/netcoreapp3.1/Hub.API.csproj.CoreCompileInputs.cache
+/Users/cemberkongay/Projects/Hub/Hub.API/obj/Debug/netcoreapp3.1/Hub.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/cemberkongay/Projects/Hub/Hub.API/obj/Debug/netcoreapp3.1/Hub.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/cemberkongay/Projects/Hub/Hub.API/obj/Debug/netcoreapp3.1/staticwebassets/Hub.API.StaticWebAssets.Manifest.cache
+/Users/cemberkongay/Projects/Hub/Hub.API/obj/Debug/netcoreapp3.1/staticwebassets/Hub.API.StaticWebAssets.xml
+/Users/cemberkongay/Projects/Hub/Hub.API/obj/Debug/netcoreapp3.1/scopedcss/bundle/Hub.API.styles.css
+/Users/cemberkongay/Projects/Hub/Hub.API/obj/Debug/netcoreapp3.1/Hub.API.RazorTargetAssemblyInfo.cache
+/Users/cemberkongay/Projects/Hub/Hub.API/obj/Debug/netcoreapp3.1/Hub.API.csproj.CopyComplete
+/Users/cemberkongay/Projects/Hub/Hub.API/obj/Debug/netcoreapp3.1/Hub.API.dll
+/Users/cemberkongay/Projects/Hub/Hub.API/obj/Debug/netcoreapp3.1/Hub.API.pdb
+/Users/cemberkongay/Projects/Hub/Hub.API/obj/Debug/netcoreapp3.1/Hub.API.genruntimeconfig.cache

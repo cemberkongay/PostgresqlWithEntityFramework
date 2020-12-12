@@ -1,0 +1,36 @@
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.csprojAssemblyReference.cache
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.AssemblyInfoInputs.cache
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.AssemblyInfo.cs
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.csproj.CoreCompileInputs.cache
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.DataAccess/bin/Debug/netcoreapp3.1/Hub.DataAccess.deps.json
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.DataAccess/bin/Debug/netcoreapp3.1/Hub.DataAccess.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.DataAccess/bin/Debug/netcoreapp3.1/Hub.DataAccess.pdb
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.DataAccess/bin/Debug/netcoreapp3.1/Hub.Entities.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.DataAccess/bin/Debug/netcoreapp3.1/Hub.Entities.pdb
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.csproj.CopyComplete
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.pdb
+/Users/cemberkongay/Projects/Hub/VustoHub.DataAccess/bin/Debug/netcoreapp3.1/Hub.DataAccess.deps.json
+/Users/cemberkongay/Projects/Hub/VustoHub.DataAccess/bin/Debug/netcoreapp3.1/Hub.DataAccess.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.DataAccess/bin/Debug/netcoreapp3.1/Hub.DataAccess.pdb
+/Users/cemberkongay/Projects/Hub/VustoHub.DataAccess/bin/Debug/netcoreapp3.1/Hub.Entities.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.DataAccess/bin/Debug/netcoreapp3.1/Hub.Entities.pdb
+/Users/cemberkongay/Projects/Hub/VustoHub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.csprojAssemblyReference.cache
+/Users/cemberkongay/Projects/Hub/VustoHub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.AssemblyInfoInputs.cache
+/Users/cemberkongay/Projects/Hub/VustoHub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.AssemblyInfo.cs
+/Users/cemberkongay/Projects/Hub/VustoHub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.csproj.CoreCompileInputs.cache
+/Users/cemberkongay/Projects/Hub/VustoHub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.csproj.CopyComplete
+/Users/cemberkongay/Projects/Hub/VustoHub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.pdb
+/Users/cemberkongay/Projects/Hub/Hub.DataAccess/bin/Debug/netcoreapp3.1/Hub.DataAccess.deps.json
+/Users/cemberkongay/Projects/Hub/Hub.DataAccess/bin/Debug/netcoreapp3.1/Hub.DataAccess.dll
+/Users/cemberkongay/Projects/Hub/Hub.DataAccess/bin/Debug/netcoreapp3.1/Hub.DataAccess.pdb
+/Users/cemberkongay/Projects/Hub/Hub.DataAccess/bin/Debug/netcoreapp3.1/Hub.Entities.dll
+/Users/cemberkongay/Projects/Hub/Hub.DataAccess/bin/Debug/netcoreapp3.1/Hub.Entities.pdb
+/Users/cemberkongay/Projects/Hub/Hub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.csprojAssemblyReference.cache
+/Users/cemberkongay/Projects/Hub/Hub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.AssemblyInfoInputs.cache
+/Users/cemberkongay/Projects/Hub/Hub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.AssemblyInfo.cs
+/Users/cemberkongay/Projects/Hub/Hub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.csproj.CoreCompileInputs.cache
+/Users/cemberkongay/Projects/Hub/Hub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.csproj.CopyComplete
+/Users/cemberkongay/Projects/Hub/Hub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.dll
+/Users/cemberkongay/Projects/Hub/Hub.DataAccess/obj/Debug/netcoreapp3.1/Hub.DataAccess.pdb

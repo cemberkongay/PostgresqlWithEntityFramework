@@ -1,0 +1,14 @@
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Business/bin/Debug/netcoreapp3.1/VustoHub.Business.deps.json
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Business/bin/Debug/netcoreapp3.1/VustoHub.Business.dll
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Business/bin/Debug/netcoreapp3.1/VustoHub.Business.pdb
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Business/bin/Debug/netcoreapp3.1/VustoHub.DataAccess.dll
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Business/bin/Debug/netcoreapp3.1/VustoHub.Entities.dll
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Business/bin/Debug/netcoreapp3.1/VustoHub.Entities.pdb
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Business/bin/Debug/netcoreapp3.1/VustoHub.DataAccess.pdb
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Business/obj/Debug/netcoreapp3.1/VustoHub.Business.csprojAssemblyReference.cache
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Business/obj/Debug/netcoreapp3.1/VustoHub.Business.AssemblyInfoInputs.cache
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Business/obj/Debug/netcoreapp3.1/VustoHub.Business.AssemblyInfo.cs
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Business/obj/Debug/netcoreapp3.1/VustoHub.Business.csproj.CoreCompileInputs.cache
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Business/obj/Debug/netcoreapp3.1/VustoHub.Business.csproj.CopyComplete
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Business/obj/Debug/netcoreapp3.1/VustoHub.Business.dll
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Business/obj/Debug/netcoreapp3.1/VustoHub.Business.pdb

@@ -1,0 +1,42 @@
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Business/bin/Debug/netcoreapp3.1/Hub.Business.deps.json
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Business/bin/Debug/netcoreapp3.1/Hub.Business.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Business/bin/Debug/netcoreapp3.1/Hub.Business.pdb
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Business/bin/Debug/netcoreapp3.1/Hub.DataAccess.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Business/bin/Debug/netcoreapp3.1/Hub.Entities.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Business/bin/Debug/netcoreapp3.1/Hub.Entities.pdb
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Business/bin/Debug/netcoreapp3.1/Hub.DataAccess.pdb
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Business/obj/Debug/netcoreapp3.1/Hub.Business.csprojAssemblyReference.cache
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Business/obj/Debug/netcoreapp3.1/Hub.Business.AssemblyInfoInputs.cache
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Business/obj/Debug/netcoreapp3.1/Hub.Business.AssemblyInfo.cs
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Business/obj/Debug/netcoreapp3.1/Hub.Business.csproj.CoreCompileInputs.cache
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Business/obj/Debug/netcoreapp3.1/Hub.Business.csproj.CopyComplete
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Business/obj/Debug/netcoreapp3.1/Hub.Business.dll
+/Users/cemberkongay/Projects/VustoHub copy/VustoHub.Business/obj/Debug/netcoreapp3.1/Hub.Business.pdb
+/Users/cemberkongay/Projects/Hub/VustoHub.Business/bin/Debug/netcoreapp3.1/Hub.Business.deps.json
+/Users/cemberkongay/Projects/Hub/VustoHub.Business/bin/Debug/netcoreapp3.1/Hub.Business.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.Business/bin/Debug/netcoreapp3.1/Hub.Business.pdb
+/Users/cemberkongay/Projects/Hub/VustoHub.Business/bin/Debug/netcoreapp3.1/Hub.DataAccess.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.Business/bin/Debug/netcoreapp3.1/Hub.Entities.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.Business/bin/Debug/netcoreapp3.1/Hub.Entities.pdb
+/Users/cemberkongay/Projects/Hub/VustoHub.Business/bin/Debug/netcoreapp3.1/Hub.DataAccess.pdb
+/Users/cemberkongay/Projects/Hub/VustoHub.Business/obj/Debug/netcoreapp3.1/Hub.Business.csprojAssemblyReference.cache
+/Users/cemberkongay/Projects/Hub/VustoHub.Business/obj/Debug/netcoreapp3.1/Hub.Business.AssemblyInfoInputs.cache
+/Users/cemberkongay/Projects/Hub/VustoHub.Business/obj/Debug/netcoreapp3.1/Hub.Business.AssemblyInfo.cs
+/Users/cemberkongay/Projects/Hub/VustoHub.Business/obj/Debug/netcoreapp3.1/Hub.Business.csproj.CoreCompileInputs.cache
+/Users/cemberkongay/Projects/Hub/VustoHub.Business/obj/Debug/netcoreapp3.1/Hub.Business.csproj.CopyComplete
+/Users/cemberkongay/Projects/Hub/VustoHub.Business/obj/Debug/netcoreapp3.1/Hub.Business.dll
+/Users/cemberkongay/Projects/Hub/VustoHub.Business/obj/Debug/netcoreapp3.1/Hub.Business.pdb
+/Users/cemberkongay/Projects/Hub/Hub.Business/bin/Debug/netcoreapp3.1/Hub.Business.deps.json
+/Users/cemberkongay/Projects/Hub/Hub.Business/bin/Debug/netcoreapp3.1/Hub.Business.dll
+/Users/cemberkongay/Projects/Hub/Hub.Business/bin/Debug/netcoreapp3.1/Hub.Business.pdb
+/Users/cemberkongay/Projects/Hub/Hub.Business/bin/Debug/netcoreapp3.1/Hub.DataAccess.dll
+/Users/cemberkongay/Projects/Hub/Hub.Business/bin/Debug/netcoreapp3.1/Hub.Entities.dll
+/Users/cemberkongay/Projects/Hub/Hub.Business/bin/Debug/netcoreapp3.1/Hub.DataAccess.pdb
+/Users/cemberkongay/Projects/Hub/Hub.Business/bin/Debug/netcoreapp3.1/Hub.Entities.pdb
+/Users/cemberkongay/Projects/Hub/Hub.Business/obj/Debug/netcoreapp3.1/Hub.Business.csprojAssemblyReference.cache
+/Users/cemberkongay/Projects/Hub/Hub.Business/obj/Debug/netcoreapp3.1/Hub.Business.AssemblyInfoInputs.cache
+/Users/cemberkongay/Projects/Hub/Hub.Business/obj/Debug/netcoreapp3.1/Hub.Business.AssemblyInfo.cs
+/Users/cemberkongay/Projects/Hub/Hub.Business/obj/Debug/netcoreapp3.1/Hub.Business.csproj.CoreCompileInputs.cache
+/Users/cemberkongay/Projects/Hub/Hub.Business/obj/Debug/netcoreapp3.1/Hub.Business.csproj.CopyComplete
+/Users/cemberkongay/Projects/Hub/Hub.Business/obj/Debug/netcoreapp3.1/Hub.Business.dll
+/Users/cemberkongay/Projects/Hub/Hub.Business/obj/Debug/netcoreapp3.1/Hub.Business.pdb

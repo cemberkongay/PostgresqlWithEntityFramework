@@ -1,0 +1,9 @@
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Entities/bin/Debug/netcoreapp3.1/VustoHub.Entities.deps.json
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Entities/bin/Debug/netcoreapp3.1/VustoHub.Entities.dll
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Entities/bin/Debug/netcoreapp3.1/VustoHub.Entities.pdb
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Entities/obj/Debug/netcoreapp3.1/VustoHub.Entities.csprojAssemblyReference.cache
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Entities/obj/Debug/netcoreapp3.1/VustoHub.Entities.AssemblyInfoInputs.cache
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Entities/obj/Debug/netcoreapp3.1/VustoHub.Entities.AssemblyInfo.cs
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Entities/obj/Debug/netcoreapp3.1/VustoHub.Entities.csproj.CoreCompileInputs.cache
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Entities/obj/Debug/netcoreapp3.1/VustoHub.Entities.dll
+/Users/cemberkongay/Projects/VustoHub/VustoHub.Entities/obj/Debug/netcoreapp3.1/VustoHub.Entities.pdb
